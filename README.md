@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Mikołaj! 👋
+I'm a 3rd-year Computer Engineering student at the Cracow University of Technology. :mortar_board:
+
+My biggest passion is crafting Full-Stack Web Applications which facilitate our lives! :computer:
+
+Currently, I'm working on my engineering project :hammer:
 
 <!--
 **mikolaj-janik/mikolaj-janik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
