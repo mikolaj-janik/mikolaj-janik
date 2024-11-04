@@ -1,6 +1,8 @@
 ### Hi there, I'm Mikołaj! 👋
 I'm a 4th-year Computer Science in Computer Engineering student at the Cracow University of Technology. :mortar_board:
 
+I also work as a Software Engineer in GPC Global Technology Center in Kraków 🏢
+
 My biggest passion is crafting Full-Stack Web Applications which facilitate our lives! :computer:
 
 Currently, I'm working on my engineering project :hammer:
