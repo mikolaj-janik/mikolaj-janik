@@ -1,5 +1,5 @@
 ### Hi there, I'm Mikołaj! 👋
-I'm a 4rd-year Computer Science in Computer Engineering student at the Cracow University of Technology. :mortar_board:
+I'm a 4th-year Computer Science in Computer Engineering student at the Cracow University of Technology. :mortar_board:
 
 My biggest passion is crafting Full-Stack Web Applications which facilitate our lives! :computer:
 
